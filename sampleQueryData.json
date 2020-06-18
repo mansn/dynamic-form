@@ -1,0 +1,79 @@
+{
+  "stages": [
+    {
+      "sortNo": 1,
+      "components": [
+        {
+          "id": "desiredAmountSlider",
+          "label": "desiredAmount",
+          "sortNo": 1
+        },
+        {
+          "id": "numberInput",
+          "label": "Organisational Number",
+          "sortNo": 2
+        },
+        {
+          "id": "mobileInput",
+          "label": "Mobile",
+          "sortNo": 3
+        },
+        {
+          "id": "emailInput",
+          "label": "E-mail",
+          "sortNo": 4
+        }
+      ]
+    },
+    {
+      "sortNo": 2,
+      "components": [
+        {
+          "id": "desiredAmountSlider",
+          "label": "desiredAmount",
+          "sortNo": 1
+        },
+        {
+          "id": "numberInput",
+          "label": "Organisational Number",
+          "sortNo": 2
+        },
+        {
+          "id": "mobileInput",
+          "label": "Mobile",
+          "sortNo": 3
+        },
+        {
+          "id": "emailInput",
+          "label": "E-mail",
+          "sortNo": 4
+        }
+      ]
+    },
+    {
+      "sortNo": 3,
+      "components": [
+        {
+          "id": "desiredAmountSlider",
+          "label": "desiredAmount",
+          "sortNo": 1
+        },
+        {
+          "id": "numberInput",
+          "label": "Organisational Number",
+          "sortNo": 2
+        },
+        {
+          "id": "mobileInput",
+          "label": "Mobile",
+          "sortNo": 3
+        },
+        {
+          "id": "emailInput",
+          "label": "E-mail",
+          "sortNo": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "stages": [
+    {
+      "sortNo": 1,
+      "components": [
+        {
+          "id": "sliderInput",
+          "min": "1",
+          "max": "100",
+          "label": "Desired Amount",
+          "fieldName": "desiredAmount",
+          "defaultValue": 1,
+          "sortNo": 1
+        },
+        {
+          "id": "input",
+          "type": "number",
+          "label": "Organisation Number",
+          "fieldName": "orgNo",
+          "defaultValue": "",
+          "sortNo": 2
+        },
+        {
+          "id": "input",
+          "type": "tel",
+          "label": "Mobile Number",
+          "fieldName": "mobileNo",
+          "defaultValue": "",
+          "sortNo": 3
+        },
+        {
+          "id": "input",
+          "type": "email",
+          "label": "Email",
+          "fieldName": "email",
+          "defaultValue": "",
+          "sortNo": 4
+        }
+      ]
+    },
+    {
+      "sortNo": 2,
+      "components": [
+        {
+          "id": "input",
+          "type": "text",
+          "label": "First Name",
+          "fieldName": "firstName",
+          "defaultValue": "",
+          "sortNo": 1
+        },
+        {
+          "id": "input",
+          "type": "text",
+          "label": "Last Name",
+          "fieldName": "lastName",
+          "defaultValue": "",
+          "sortNo": 3
+        }
+      ]
+    },
+    {
+      "sortNo": 3,
+      "components": [
+        {
+          "id": "textArea",
+          "label": "More information",
+          "fieldName": "moreInfo",
+          "defaultValue": "This is why I'm asking for a loan",
+          "sortNo": 1
+        }
+      ]
+    }
+  ]
+}
